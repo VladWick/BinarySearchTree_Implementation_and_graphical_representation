@@ -8,7 +8,7 @@ public class BST_Words_Analyze {
 	
 	static BST_Words_Implementation bst = new BST_Words_Implementation();
 	
-	static File file = new File("C:\\1-must-have\\1-workspace\\2-java\\lb8\\src\\data");
+	static File file = new File("C:\\1-must-have\\1-workspace\\2-java\\3-TPU\\lb8\\src\\data");
 
 	public static void analyze() throws FileNotFoundException {
 		//fillBSTFromFile(bst);

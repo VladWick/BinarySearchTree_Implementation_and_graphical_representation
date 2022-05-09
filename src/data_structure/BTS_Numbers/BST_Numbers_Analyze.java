@@ -7,7 +7,7 @@ import java.util.Scanner;
 public class BST_Numbers_Analyze {
 	
 	static BST_Numbers_Implementation bst = new BST_Numbers_Implementation();
-	static File file = new File("C:\\1-must-have\\1-workspace\\2-java\\lb8\\src\\dataNumbersSmall");
+	static File file = new File("C:\\1-must-have\\1-workspace\\2-java\\3-TPU\\lb8\\src\\dataNumbersSmall");
 	
 	public static void analyze() throws FileNotFoundException {
 		fillBSTFromFile(bst);

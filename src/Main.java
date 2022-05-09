@@ -12,17 +12,17 @@ public class Main {
 	public static void main(String[] args) throws FileNotFoundException {
 
 		/* ----- Array -----*/
-		
+		/*
 		Array.analyze();
 		Array.findWord(wordToFind);
 		Array.printArray();
-		
+		*/
 		/* ----- Binary Search Tree -----*/
-		/*
+		
 		BST_Words_Analyze.analyze();
 		BST_Words_Analyze.findWord(wordToFind);
 		BST_Words_Analyze.printBinarySearchTree();
-		*/
+		
 		/*
 		BST_Numbers_Analyze.analyze();
 		BST_Numbers_Analyze.findNumber(numberToFind);
